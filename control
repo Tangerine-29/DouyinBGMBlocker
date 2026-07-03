@@ -1,0 +1,9 @@
+Package: com.shtm.douyinbgmblocker
+Name: DouyinBGMBlocker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Block annoying Douyin background music by music ID and keywords.
+Maintainer: SHTM
+Author: SHTM
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
